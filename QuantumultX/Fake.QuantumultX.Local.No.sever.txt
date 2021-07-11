@@ -29,8 +29,8 @@ https://raw.githubusercontent.com/quanganhbn/Quantum-X/master/hostsVN-quantumult
 https://raw.githubusercontent.com/quanganhbn/Quantum-X/master/hostsVN-quantumult-FB.conf, tag=🇻🇳hostsVN-FB, force-policy=Chặn FB, enabled=true
 
 [rewrite_remote]
-https://raw.githubusercontent.com/chankanzu/Quan-X-1.3/master/QuantumultX/Local_script.txt, tag=Fake iAP Local, enabled=true
-https://raw.githubusercontent.com/quanganhbn/Quantum-X/master/hostsVN-quantumultX-rewrite.conf, tag=🇻🇳hostsVN, enabled=true
+https://raw.githubusercontent.com/hungzero168/QuantumultXExit/main/QuantumultX/Local_script.txt, tag=Fake iAP Local, enabled=true
+https://raw.githubusercontent.com/hungzero168/QuantumultXExit/main/Config/hostsVN-quantumultX-rewrite1.conf, tag=🇻🇳hostsVN, enabled=true
 
 [server_local]
 ;http=192.168.1.234:8888, username=, password=, fast-open=false, udp-relay=false, certificate=1 ,tag=DEBUG(Charles Fiddler)
