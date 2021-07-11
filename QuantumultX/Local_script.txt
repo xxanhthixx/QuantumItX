@@ -320,10 +320,10 @@ https://payments-p.yoursmartkid.com/api/v1/checkSubscription?udid* url script-re
 ^https:\/\/api\.lichviet\.org\/user\/linkdetail$ url script-response-body hungzero168/QuantumultXExit/lichviet2.js
 
 ##wps makexp
-^https:\/\/account\.wps\.com/\api\/users\/.+ url script-response-body chankanzu/Scripting/master/wps.js
+^https:\/\/account\.wps\.com/\api\/users\/.+ url script-response-body hungzero168/QuantumultXExit/wps.js
 
 #VideoStar
-^https?:\/\/.*\.videostarapp\.com\/scripts\/subsNew\.php url script-response-body chankanzu/Scripting/master/VideoStar.js
+^https?:\/\/.*\.videostarapp\.com\/scripts\/subsNew\.php url script-response-body hungzero168/QuantumultXExit/VideoStar.js
 
 #Textnow
-^https:\/\/api\.textnow\.me\/api2.0\/users\/.* url script-response-body chankanzu/Scripting/master/Textnow.js
+^https:\/\/api\.textnow\.me\/api2.0\/users\/.* url script-response-body hungzero168/QuantumultXExit/Textnow.js
