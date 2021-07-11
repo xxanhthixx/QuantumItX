@@ -10,7 +10,7 @@ hostname = avatar-nct.nixcdn.com, spclient.wg.spotify.com, oa.zalo.me, vsco.co, 
 https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ url script-response-body hungzero168/QuantumultXExit/Terminus.js
 
 #PicsArt
-^https:\/\/api\.picsart\.com\/users\/show\/me\.json$ url script-response-body eval https://raw.githubusercontent.com/hungzero168/QuantumultXExit/main/picsArt.vip.js
+^https:\/\/api\.picsart\.com\/users\/show\/me\.json$ url script-response-body https://raw.githubusercontent.com/hungzero168/QuantumultXExit/main/picsArt.vip.js
 
 #Vivavideo
 ^https:\/\/viva-asia1\.vvbrd\.com\/api\/rest\/u\/vip* url script-response-body hungzero168/QuantumultXExit/vivavideo.vip.js
