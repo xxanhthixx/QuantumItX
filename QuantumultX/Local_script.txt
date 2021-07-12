@@ -48,7 +48,7 @@ https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ url script-response-body h
 ^https:\/\/api\.mondlylanguages\.com\/v1\/ios\/user\/sync$ url script-response-body https://raw.githubusercontent.com/hungzero168/QuantumultXExit/main/mondly.vip.js
 
 #busuu
-^https:\/\/api\.busuu\.com\/users\/me* url script-response-body https://raw.githubusercontent.com/hungzero168/QuantumultXExit/main/main/busuu.vip.js
+^https:\/\/api\.busuu\.com\/users\/me* url script-response-body https://raw.githubusercontent.com/hungzero168/QuantumultXExit/main/busuu.vip.js
 
 #Videoshow
 ^https:\/\/owa\.videoshowiosglobalserver\.com* url script-response-body https://raw.githubusercontent.com/hungzero168/QuantumultXExit/main/videoshow.vip.js
